@@ -1,2 +1,9 @@
-# Ent-OrgStudiesArticles_Notes
- 
+# README
+
+## 结构：
+
+- 刊物
+  - 年份
+    - 文章（笔记）
+
+包括ARS、AJS（论文和书评）、社会、社研和中社科。
